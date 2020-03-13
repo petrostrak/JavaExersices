@@ -1,3 +1,4 @@
+//created with gedit 3.34.0
 public class WhatClass{
 	public static void main(String[] args){
 		int age = Integer.parseInt(args[0]);
